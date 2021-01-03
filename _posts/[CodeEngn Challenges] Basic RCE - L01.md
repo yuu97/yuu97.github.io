@@ -9,8 +9,6 @@ tags:
 - Basic_RCE
 ---
 
-
-
 # Basic RCE - L01
 
 ``` 
